@@ -2,4 +2,6 @@ Id,Name,Sales
 emp1,John,
 emp2,,
 emp3,,345.0
+emp31,,null
+emp32,null,345.0
 emp4,Cindy,456.0
